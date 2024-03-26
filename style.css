@@ -3,11 +3,14 @@ margin: 0;
 podding: 0;
 } 
 body{
-  background:#cccccc
+  
 }
 
 #banner{
 width:100%;
+}
+.principal{background:#cccccc
+  podding:30px;
 }
 
 h1{
@@ -23,3 +26,23 @@ p{
 em strong{
   color:lilac;
 }
+.itens{
+  font-style:italic;
+}
+.beneficios{
+  background:#FFFFFF;
+  podding:20px;
+}
+h2{
+  text-align:center;
+}
+ul{
+  display;inline-block;
+  vertical-align:top;
+  width:20%
+  margin-right:15%;
+  }
+  .imagem-beneficios{
+    width:50%
+  }
+  
