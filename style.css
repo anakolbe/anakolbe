@@ -13,7 +13,11 @@ width:100%;
   podding:30px;
 }
 
-h1{
+
+.titulo-principal{
+  padding-left:20px
+}
+.titulo-secundario{
   text-align:center;
 }
 p{
