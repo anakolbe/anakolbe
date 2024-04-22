@@ -42,6 +42,20 @@ produtos{
     box-sizing:border.box;
   border: 2px solid #000000;
   border-radius: 10px
-
   }
-  
+  .produtos li:hover{
+  .border-color:lilac;
+  }
+  .produtos li:active{
+  border-color:white;
+}
+  .produtos li:hover h2{
+    font-size:34px;
+  }
+
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+    .produtos-descricao {
+       font-size: 18px;
