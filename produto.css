@@ -81,3 +81,15 @@ produtos{
   .checklox{
     margin:20px 0;
   }
+  .enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: orange;
+    cololr: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: nome;
+    border-radius: 5px;
+    transition: 1s all;
+    curson: pointer;}
+    
