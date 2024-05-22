@@ -23,6 +23,99 @@ nav a{
   font-weight: bold;
   font-size: 22px;
   text-decoration: nome;
+  body{
+  
+}
+
+#banner{
+width:100%;
+}
+.principal{background:#cccccc
+  podding:30px;
+}
+
+
+.titulo-principal{
+  padding-left:20px
+}
+.titulo-secundario{
+  text-align:center;
+}
+p{
+  text-aling:center;
+}
+
+#missao{
+ font-size:30px; 
+}
+em strong{
+  color:lilac;
+}
+.itens{
+  font-style:italic;
+}
+.beneficios{
+  background:#FFFFFF;
+  podding:20px;
+}
+h2{
+  text-align:center;
+}
+ul{
+  display;inline-block;
+  vertical-align:top;
+  width:20%
+  margin-right:15%;
+  }
+  .imagem-beneficios{
+    width:50%
+  }body{
+  
+}
+
+#banner{
+width:100%;
+}
+.principal{background:#cccccc
+  podding:30px;
+}
+
+
+.titulo-principal{
+  padding-left:20px
+}
+.titulo-secundario{
+  text-align:center;
+}
+p{
+  text-aling:center;
+}
+
+#missao{
+ font-size:30px; 
+}
+em strong{
+  color:lilac;
+}
+.itens{
+  font-style:italic;
+}
+.beneficios{
+  background:#FFFFFF;
+  podding:20px;
+}
+h2{
+  text-align:center;
+}
+ul{
+  display;inline-block;
+  vertical-align:top;
+  width:20%
+  margin-right:15%;
+  }
+  .imagem-beneficios{
+    width:50%  
+      
   nav a:holver{
   color: #C78C19;
   text-decoration:underline
